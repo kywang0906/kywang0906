@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**kywang0906/kywang0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋 I'm Bella</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Another humanities-to-tech explorer.<br>
+From language to logic, words to code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+- 🎓 **Master of Computer Science (MCS)** @ UIUC *(Class of 2026)*
+- 📊 **MS in Information (Data Science Track)** @ University of Michigan *(Class of 2024)*
+
+---
+
+### 💼 Experience
+- 👩‍💻 **Part-time Software Developer** @ American Technology Initiative Inc.
+- 🛠️ **Associate Application Consultant Intern** @ IBM
+
+---
+
+### 🚀 Selected Projects
+
+#### 📌 [Careerlytics](https://github.com/your-username/careerlytics)
+> A resume analysis tool that helps users discover which tech roles best match their background.
+
+- **Technologies**: LightGBM, BERT, Gemma 2, PyTorch, FastAPI, React + Vite, AWS EC2
+
+#### 📌 [AcademiQ](https://github.com/your-username/academiq)
+> A research recommendation system that bridges scholars and institutions using Learning to Rank.
+
+- **Technologies**: LambdaMART (L2R), Flask, AWS EC2
+
+---
+
+### 🛠️ Tech Stack
+
+#### Programming Languages & Tools
+`Python` `SQL` `Java` `JavaScript` `C++`  
+`React` `Flask` `Spring Boot` `FastAPI` `Git` `Docker` `Linux` `Selenium` `JUnit`
+
+#### Cloud & Deployment
+`AWS EC2` `ngrok` `Shell Scripting`
