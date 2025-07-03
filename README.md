@@ -8,16 +8,16 @@ Building tools that blend data science, language models, and full-stack engineer
 <br>
 
 🎓 **Education**  
-🎓 MCS @ UIUC *(2026)* ｜ 📊 MSI (Data Track) @ UMich *(2024)*
+MCS @ UIUC *(Fall 2026)* ｜ MSI @ UMich *(Winter 2024)*
 
 💼 **Experience**  
-👩‍💻 Part-time Software Developer @ American Technology Initiative  
-🛠️ Associate Application Consultant Intern @ IBM
+Part-time Software Developer @ American Technology Initiative *(2024 - Present)*  
+Associate Application Consultant Intern @ IBM *(Summer 2023)*
 
 🧠 **Interests**  
-Machine learning 💡 NLP ✨ Resume intelligence 🤖 Ranking systems 🔍 Frontend–Backend harmony 🌐
+Machine learning | Data Analytics | NLP | Frontend–Backend harmony
 
-🚀 **Projects**
+🚀 **Projects**  
 Find some of my selected works like **[Careerlytics](https://github.com/kywang0906/Careerlytics)** and **[AcademiQ](https://github.com/kywang0906/AcademiQ)** below in my repositories ⬇️
 
 🛠️ **Languages & Tools**
