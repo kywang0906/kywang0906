@@ -11,7 +11,7 @@ Building tools that blend data science, language models, and full-stack engineer
 MCS @ UIUC *(Fall 2026)* ｜ MSI @ UMich *(Winter 2024)*
 
 💼 **Experience**  
-Data Engineer @ Cathay Financial Holdings *(09/2025 - Present)* 
+Data Engineer @ Cathay Financial Holdings *(09/2025 - Present)*  
 Software Developer @ American Technology Initiative *(10/2024 - 09/2025)*  
 Associate Application Consultant Intern @ IBM *(Summer 2023)*
 
